@@ -16,7 +16,7 @@ A simple yet powerful web app that checks the **strength of a password** based o
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/artij07/Password-Strength-Checker.git
+   git clone https://github.com/artij07/Password_Strength_Checker.git
 Clone or Download this repository
 
 git clone https://github.com/artij07/Password_Strength_Cheker.git
